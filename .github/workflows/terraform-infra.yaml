@@ -18,7 +18,8 @@ on:
           - apply
           - destroy
 
-
+permissions:
+  id-token: write
 
 
 jobs:
